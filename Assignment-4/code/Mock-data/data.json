@@ -1,0 +1,51 @@
+{
+
+    "user":
+    
+    [
+    
+    {"name":"Siva",
+    
+    "location":"Bengaluru",
+    
+    "likes":64,
+    
+    "description": "Kick start your career with a bang",
+    
+    "PostImage": "https://yt3.ggpht.com/a/AATXAJwAqOq2FVk8B0ax9zEwsRpBVP-4WrBdzZPiN3wn=s900-c-k-c0xffffffff-no-rj-mo",
+    
+    "date":"10 Jan 2021"
+    
+    },
+    
+    {"name":"Neeraj",
+    
+    "location":"Pune",
+    
+    "likes":30,
+    
+    "description": "Beautiful Big Sur",
+    
+    "PostImage": "https://cdn.shopify.com/s/files/1/0077/2636/6801/products/Bixby_Bridge_Panorama_SH_1200x675.jpg?v=1557865008",
+    
+    "date": "6 Jan 2021"
+    
+    },
+    
+    {"name":"Rahul",
+    
+    "location":"Hyderabad",
+    
+    "likes":30,
+    
+    "description": "Off To Switzerland :/",
+    
+    "PostImage": "https://www.ainonline.com/sites/default/files/styles/ain30_fullwidth_large_2x/public/uploads/2016/04/swisscseries.jpg?itok=T57irLIO&timestamp=1461350032",
+    
+    "date": "29 Dec 2021"
+    
+    }
+    
+    ]
+    
+    }
