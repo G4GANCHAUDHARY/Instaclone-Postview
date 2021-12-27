@@ -6,7 +6,7 @@
 html {
   font-size: 14px;
 }
-/* body {
+/* body { 
   line-height: 1.5;
   color: black;
   margin:0;
@@ -55,7 +55,7 @@ header {
   display: flex;
   flex-direction: row;
   padding: 20px;
-
+  justify-content: space-between;
 }
 
 .instaclone {
@@ -127,19 +127,18 @@ header {
 .like, .share{
   width: 30px;
   height: 30px;
+  margin:3px;
 }
 
-.like {
+/* .like {
   margin-right: 10px;
-}
+} */
 
-.share {
-  margin-left: 10px;
-  margin-right: 65%;
-}
+/* .share {
+} */
 
 .date{
-  margin: 0px;
+  margin-left: auto;
   font-weight:500;
 }
 
